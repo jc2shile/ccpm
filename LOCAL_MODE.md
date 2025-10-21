@@ -1,4 +1,5 @@
 # CCPM Local Mode
+**[中文文档 (Chinese Documentation)](doc\LOCAL_MODE_ZH.md)**
 
 CCPM works perfectly in local-only mode without any GitHub integration. All management is done through local markdown files.
 
