@@ -19,7 +19,6 @@
 
 Stop losing context. Stop blocking on tasks. Stop shipping bugs. This battle-tested system turns PRDs into epics, epics into GitHub issues, and issues into production code – with full traceability at every step.
 
-![Claude Code PM](screenshot.webp)
 
 ## Table of Contents
 
